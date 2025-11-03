@@ -1,0 +1,4 @@
+# UVM 
+Simple testbench 
+DUT - simple assignments with and between the two operends 
+testbench - sending the inputs to the DUT and the testbench contains the scoreboard, and active agent 
