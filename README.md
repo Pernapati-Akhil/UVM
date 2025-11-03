@@ -1,1 +1,4 @@
-# UVM
+# UVM 
+Simple testbench 
+DUT - simple assignments with and between the two operends 
+test - sending the inputs to the DUT 
